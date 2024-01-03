@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Read the content of global.css file
 yarn install
 cd nextjs
 yarn install
